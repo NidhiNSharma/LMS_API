@@ -1,0 +1,475 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "users": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "firstName": {
+              "type": "string"
+            },
+            "lastName": {
+              "type": "string"
+            },
+            "skillmap": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer"
+                    },
+                    "Skill": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "Skill"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer"
+                    },
+                    "Skill": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "Skill"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "firstName",
+            "lastName",
+            "skillmap"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "firstName": {
+              "type": "string"
+            },
+            "lastName": {
+              "type": "string"
+            },
+            "skillmap": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer"
+                    },
+                    "Skill": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "Skill"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "firstName",
+            "lastName",
+            "skillmap"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "firstName": {
+              "type": "string"
+            },
+            "lastName": {
+              "type": "string"
+            },
+            "skillmap": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer"
+                    },
+                    "Skill": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "Skill"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "firstName",
+            "lastName",
+            "skillmap"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "firstName": {
+              "type": "string"
+            },
+            "lastName": {
+              "type": "string"
+            },
+            "skillmap": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer"
+                    },
+                    "Skill": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "Skill"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "firstName",
+            "lastName",
+            "skillmap"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "firstName": {
+              "type": "string"
+            },
+            "lastName": {
+              "type": "string"
+            },
+            "skillmap": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer"
+                    },
+                    "Skill": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "Skill"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer"
+                    },
+                    "Skill": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "Skill"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer"
+                    },
+                    "Skill": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "Skill"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "firstName",
+            "lastName",
+            "skillmap"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "firstName": {
+              "type": "string"
+            },
+            "lastName": {
+              "type": "string"
+            },
+            "skillmap": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer"
+                    },
+                    "Skill": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "Skill"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "firstName",
+            "lastName",
+            "skillmap"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "firstName": {
+              "type": "string"
+            },
+            "lastName": {
+              "type": "string"
+            },
+            "skillmap": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer"
+                    },
+                    "Skill": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "Skill"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "firstName",
+            "lastName",
+            "skillmap"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "firstName": {
+              "type": "string"
+            },
+            "lastName": {
+              "type": "string"
+            },
+            "skillmap": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer"
+                    },
+                    "Skill": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "Skill"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "firstName",
+            "lastName",
+            "skillmap"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "firstName": {
+              "type": "string"
+            },
+            "lastName": {
+              "type": "string"
+            },
+            "skillmap": {
+              "type": "array",
+              "items": {}
+            }
+          },
+          "required": [
+            "id",
+            "firstName",
+            "lastName",
+            "skillmap"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "firstName": {
+              "type": "string"
+            },
+            "lastName": {
+              "type": "string"
+            },
+            "skillmap": {
+              "type": "array",
+              "items": {}
+            }
+          },
+          "required": [
+            "id",
+            "firstName",
+            "lastName",
+            "skillmap"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "firstName": {
+              "type": "string"
+            },
+            "lastName": {
+              "type": "string"
+            },
+            "skillmap": {
+              "type": "array",
+              "items": {}
+            }
+          },
+          "required": [
+            "id",
+            "firstName",
+            "lastName",
+            "skillmap"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "firstName": {
+              "type": "string"
+            },
+            "lastName": {
+              "type": "string"
+            },
+            "skillmap": {
+              "type": "array",
+              "items": {}
+            }
+          },
+          "required": [
+            "id",
+            "firstName",
+            "lastName",
+            "skillmap"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "users"
+  ]
+}

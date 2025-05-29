@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "user_id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "phone_number": {
+      "type": "integer"
+    },
+    "location": {
+      "type": "string"
+    },
+    "time_zone": {
+      "type": "string"
+    },
+    "linkedin_url": {
+      "type": "string"
+    },
+    "education_ug": {
+      "type": "string"
+    },
+    "education_pg": {
+      "type": "string"
+    },
+    "visa_status": {
+      "type": "string"
+    },
+    "comments": {
+      "type": "string"
+    },
+    "message": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "user_id",
+    "name",
+    "phone_number",
+    "location",
+    "time_zone",
+    "linkedin_url",
+    "education_ug",
+    "education_pg",
+    "visa_status",
+    "comments",
+    "message"
+  ]
+}

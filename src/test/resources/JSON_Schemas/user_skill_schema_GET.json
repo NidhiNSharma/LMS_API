@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "user_skill_id": {
+      "type": "string"
+    },
+    "user_id": {
+      "type": "string"
+    },
+    "Skill_id": {
+      "type": "integer"
+    },
+    "months_of_exp": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "user_skill_id",
+    "user_id",
+    "Skill_id",
+    "months_of_exp"
+  ]
+}
